@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": false,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "YAR Server Never Dies!",
+        "Hao",
+        "Theek hai bhai"
       ]
     },
     "chat-log": true,
